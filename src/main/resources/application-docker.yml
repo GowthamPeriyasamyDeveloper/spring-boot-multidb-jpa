@@ -1,0 +1,11 @@
+mysql:
+  datasource:
+    jdbc-url: jdbc:mysql://mysql-db:3306/mydb
+    username: myuser
+    password: mypassword
+
+postgres:
+  datasource:
+    jdbc-url: jdbc:postgresql://postgres-db:5432/postgresdb
+    username: postgres
+    password: postgres
